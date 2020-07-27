@@ -352,4 +352,3 @@ function atualizaCampo(posicao,campo,novoValor) {
 }
 
 
-exibePet('Meg')
